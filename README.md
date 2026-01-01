@@ -2,8 +2,10 @@
 
 ### 🔍 Project Overview
 
-This Power BI project analyzes Blinkit grocery sales data to understand sales performance, customer ratings, outlet distribution, and item-level insights.
-The dashboard provides a clear and interactive view of key business metrics to support data-driven decision-making.
+This project involves building an interactive Power BI dashboard to analyze Blinkit grocery sales data.
+The objective is to evaluate sales performance, outlet efficiency, product categories, and customer preferences to support business decision-making.
+
+The dashboard converts raw sales data into clear, actionable insights using KPIs, filters, and visual storytelling.
 
 ### 🛠 Tools & Technologies
 Power BI Desktop
