@@ -7,6 +7,7 @@
 
 ### 🛠 Tools & Technologies
 Power BI Desktop
+
 Power Query (Data Cleaning & Transformation)
 DAX (Calculated Measures)
 Data Visualization
