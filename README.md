@@ -24,6 +24,39 @@ Number of Items: 8,523
 
 Average Rating: 3.9
 
+### 📈 Dashboard Insights
+🔹 Outlet Performance
+
+Sales comparison by Outlet Type (Grocery Store, Supermarket Types)
+
+Sales distribution by Outlet Size (Tier 1, Tier 2, Tier 3)
+
+Outlet establishment trend over time
+
+🔹 Product Analysis
+
+Sales by Item Type (Fruits, Snacks, Household, Dairy, etc.)
+
+Fat Content Analysis (Low Fat vs Regular)
+
+Item contribution to total revenue
+
+🔹 Location Analysis
+
+Tier-wise outlet sales performance
+
+High-performing outlet locations identified
+
+### 🎯 Key Learnings
+
+Built interactive dashboards using Power BI
+
+Created DAX measures for KPIs
+
+Improved storytelling using business-focused visuals
+
+Gained hands-on experience in sales analytics
+
 Note:
 GitHub cannot preview .pbix files.
 Please download the file and open it using Power BI Desktop.
