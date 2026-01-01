@@ -16,11 +16,14 @@ Data Visualization
 
 📌 Key KPIs
 
-###### Total Sales: $1.20M
-###### Average Sales: $141
-###### Number of Items: 8,523
-###### Average Rating: 3.9
+Total Sales: $1.20M
 
-###### Note:
-###### GitHub cannot preview .pbix files.
-###### Please download the file and open it using Power BI Desktop.
+Average Sales: $141
+
+Number of Items: 8,523
+
+Average Rating: 3.9
+
+Note:
+GitHub cannot preview .pbix files.
+Please download the file and open it using Power BI Desktop.
