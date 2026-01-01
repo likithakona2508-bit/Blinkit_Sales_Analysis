@@ -14,7 +14,7 @@ DAX (Calculated Measures)
 
 Data Visualization
 
-📌 Key KPIs
+### 📌 Key KPIs
 
 Total Sales: $1.20M
 
