@@ -6,10 +6,10 @@
 ###### The dashboard provides a clear and interactive view of key business metrics to support data-driven decision-making.
 
 ### 🛠 Tools & Technologies
-###### Power BI Desktop
-###### Power Query (Data Cleaning & Transformation)
-###### DAX (Calculated Measures)
-###### Data Visualization
+Power BI Desktop
+Power Query (Data Cleaning & Transformation)
+DAX (Calculated Measures)
+Data Visualization
 
 📌 Key KPIs
 
